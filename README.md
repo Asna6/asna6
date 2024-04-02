@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Asna6/asna6/blob/main/banner.gif?raw=true)](https://github.com/avyuktsoni0731)
 
 <h1 align="center">Hi 👋, I'm Asna Fatimah!</h1>
-<h3 align="center">I am a passionate 2st year Electrical Engineering Student @ ZHCET, AMU.</h3>
+<h3 align="center">I am a passionate 2nd year Electrical Engineering Student @ ZHCET, AMU.</h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asna6&label=Profile%20views&color=0e75b6&style=flat" alt="asna6" /> </p>
 
